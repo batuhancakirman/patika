@@ -10,5 +10,6 @@
     7. [8,,11,12,16,21,22]
 2. O(nlogn)
 
-www.patika.dev 
-https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
+- www.patika.dev 
+- https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
+- https://app.patika.dev/batuhancakirman
